@@ -6,3 +6,5 @@ right=
 ike=aes256-sha2_256
 keyexchange=ikev2
 type=transprt
+
+: PSK "thekey"
