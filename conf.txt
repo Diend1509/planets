@@ -2,8 +2,8 @@ authby=secret
 auto=route
 left=
 right=
-#ah=shal-sha256-modp1024
-ike=aes256-sha2_256
+#ah=shal-sha256-modp1024!
+ike=aes256-sha2_256!
 keyexchange=ikev2
 type=transprt
 
